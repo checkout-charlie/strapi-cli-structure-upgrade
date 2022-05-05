@@ -1,5 +1,5 @@
 {
-  "name": "cli-strapi-upgrade",
+  "name": "strapi-cli-structure-upgrade",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",

@@ -15,6 +15,10 @@ All updates expect some default strapi patterns to be in place so please check t
 
 It is not clear what a `oneToOne` OR `manyToOne` is, so search the schema files for the marked `TODO` and chose wich one it is.
 
+## Data Migration
+
+Strapi provides a script for data migration at https://github.com/strapi/migration-scripts
+
 ## Installation
 
 ```
